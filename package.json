@@ -1,15 +1,15 @@
 {
-  "name": "convo",
+  "name": "converti",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
   "author": {
     "name": "Harsh Kumar Raghav",
     "email": "raghavharsh068@gmail.com"
   },
+  "type": "module",
   "bin": {
-    "convo": "./dist/index.mjs"
+    "converti": "index.js"
   },
   "keywords": [
     "cli",
@@ -17,7 +17,7 @@
     "webp",
     "converter",
     "image",
-    "convo"
+    "converti"
   ],
   "files": [
     "index.js",
@@ -30,7 +30,7 @@
   "scripts": {
     "dev": "unbuild --stub",
     "build": "unbuild",
-    "convo": "node index.js"
+    "converti": "node index.js"
   },
   "license": "ISC",
   "dependencies": {

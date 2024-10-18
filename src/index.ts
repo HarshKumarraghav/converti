@@ -1,6 +1,3 @@
-// src/index.ts
-
-import { program } from "commander";
 import fs from "fs";
 import { cyan, green, red, yellow, blue, magenta, bold } from "kolorist";
 import path from "path";
