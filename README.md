@@ -1,4 +1,4 @@
-# convo - A PNG to WebP Converter CLI
+# Convo - A PNG to WebP Converter CLI
 
 This command-line tool allows you to easily convert PNG images to WebP format. It provides an interactive interface for browsing directories, selecting individual PNG files, or converting all PNG files in a directory.
 
